@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://atlantaengineeringreviews.com/sitemap.xml
